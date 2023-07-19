@@ -1,0 +1,7 @@
+PNG: 89504E470D0A1A0A 
+PDF: 255044462D 
+Java Class File: CAFEBABE 
+MP3: 494433
+DOCX: 504B0304
+
+Source: https://en.wikipedia.org/wiki/List_of_file_signatures 
